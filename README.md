@@ -1,2 +1,3 @@
 # learning_dsa
-Learning Data Structures and Algorithma
+Learning Data Structures and Algorithms
+
